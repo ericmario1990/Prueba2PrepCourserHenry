@@ -1,2 +1,1 @@
-# Prueba2PrepCourserHenry
-Prueba dos del repositorio Modulo 2
+Esto es la prueba de dos de comer crear un repositorio desde github a nuestro escritorio
